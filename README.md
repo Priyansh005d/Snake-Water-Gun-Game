@@ -1,4 +1,4 @@
-# 🐍 Snake, Water, Gun Game – Python CLI Version
+# 🐍 Snake, Water, Gun Game – Python 
 
 This is a fun and minimal Python game based on the classic **"Snake, Water, Gun"** – a twist on Rock, Paper, Scissors! Play against the computer in your terminal.
 
